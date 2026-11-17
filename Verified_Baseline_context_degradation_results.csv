@@ -1,0 +1,6 @@
+Target_Length,Actual_Tokens,Success,Output
+1500,1427,True,The specific parameter limit for the new AlphaX model is 8.5 billion.
+1750,1661,True,The specific parameter limit for the new AlphaX model is 8.5 billion.
+2000,1895,True,The specific parameter limit for the new AlphaX model is 8.5 billion.
+2250,2129,True,The specific parameter limit for the new AlphaX model is 8.5 billion.
+2500,2363,False,"assreading,dingrame,dingrame,dingrame,dingrame,dingrame,dingrame,dingrame,dingrame,dingrame,dingrame"
