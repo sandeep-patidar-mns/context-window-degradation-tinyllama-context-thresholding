@@ -46,5 +46,5 @@ Open `notebook.ipynb` and run all cells sequentially. The global random seed is 
 - [ ] Verify that `context_degradation_results.csv` shows `Success = True` at 2250 tokens and `Success = False` (with hallucinated text) at 2500 tokens.
 
 ## 📝 Credits, License, and Citation
-**Author:** Ayan Amir
+**Author:** Sandeep Patidar
 **License:** MIT License. Feel free to use and modify the code for your own research.
